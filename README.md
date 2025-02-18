@@ -18,7 +18,7 @@
 
 - ☁️ AWS | GCP | Trying to build some Azure skills  
 - 📜 Terraform | CDK | CloudFormation
-- 🖌️ Python | TypeScript | Learning Go | Astro | A pinch of React
+- 🖌️ Python | TypeScript | Learning Go | Astro | a pinch of React
 
 ## 💬 My LinkedIn message response time is 2 minutes or 2 weeks - there is no in between
 
