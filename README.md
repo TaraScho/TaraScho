@@ -1,6 +1,6 @@
 # 🌩️ Tara Schofield | TaraScho  
 
-👋 I love all things cloud, IaC, and cloudsec.
+👋 I love all things cloud, IaC, and cloudsec. I am an [AWS Community Builder](https://aws.amazon.com/developer/community/community-builders/) in the Security category. 
 
 ## 👩‍💻 Interests
 
