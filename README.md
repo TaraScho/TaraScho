@@ -16,7 +16,7 @@
 
 ## 🔧 Favorites 
 
-- ☁️ AWS | GCP | Working on my Azure skills  
+- ☁️ AWS | GCP | Trying to build some Azure skills  
 - 📜 Terraform | CDK | CloudFormation
 - 🖌️ Python | TypeScript | Learning Go | Astro | A pinch of React
 
