@@ -8,11 +8,11 @@
 
 **Infrastructure as Code** – At my happiest when writing CDK or Terraform, but I do have a soft spot for a nice YAML CloudFormation template. If you can't handle me at my `UPDATE_ROLLBACK_IN_PROGRESS` you don't deserve me at my `CREATE_COMPLETE`
 
-**Cloud Security/Cybersecurity** - Used to be a consultant, now I build cloud security labs, workshops, and CTF style challenges @Datadog
+**Cloud Security/Cybersecurity** - Used to be a consultant, now I build cloud security labs, workshops, and gamified learning @Datadog
 
 **CI/CD/DevSecOps/Automation** 
 
-**Gamified Learning and Practical Assessments** 
+**Gamified Learning/CTFs/Practical Assessments** 
 
 ## 🔧 Favorites 
 
