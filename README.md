@@ -12,7 +12,7 @@
 
 **CI/CD/DevSecOps/Automation** 
 
-**Gamified Learning/CTFs/Practical Assessments** 
+**Gamified Learning/CTFs/Practical Assessment** 
 
 ## 🔧 Favorites 
 
