@@ -14,6 +14,8 @@
 
 **Gamified Learning/CTFs/Practical Assessment** 
 
+**Vex Robotics** - I help with an elementary school Vex robotics team and teach Vex IQ programming
+
 ## 🔧 Favorites 
 
 - ☁️ AWS | GCP | Trying to build some Azure skills  
