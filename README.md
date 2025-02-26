@@ -14,7 +14,7 @@
 
 **Gamified Learning/CTFs/Practical Assessment** 
 
-**Vex Robotics** - I help with an elementary school Vex robotics team and teach Vex IQ programming
+**Vex Robotics** - I help coach an elementary school Vex robotics team and teach Vex IQ programming
 
 ## 🔧 Favorites 
 
